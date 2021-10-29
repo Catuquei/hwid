@@ -1,2 +1,3 @@
 # hwid
-no comasd
+hwid system for cat hack 
+https://discord.gg/yg74VrgM
